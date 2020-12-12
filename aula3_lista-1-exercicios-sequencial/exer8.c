@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/* DIAGRAMA CHAPIN, PORTUGUES ESTRUTURADO e LINGUAGEM C
 8.A empresa Vestual resolveu fazer uma promoção especial e
 conceder um desconto de 30 % sobre o preço de venda de todo seu
 estoque. Escreva um algoritmo que leia o preço de venda antes da

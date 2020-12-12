@@ -28,9 +28,17 @@ int main(void){
     
     if (parImpar == 0){ /*resto da divisao por 2 é 0*/
         printf("%i eh um numero\"PAR\"\n", num);
-    }
-    else /*resto da divisao por 2 é 1 */
+    }else /*resto da divisao por 2 é 1 */
        printf("%i eh um numero\"IMPAR\"\n", num);
            
     return 0;
 }
+/*  dá pra fazer o codigo sem if-else, apenas com operador ternario 
+    
+    int num;
+    printf("\ndigite um numero: ");
+    scanf("%i", &num); 
+
+    printf("O numero %i que voce digitou eh %s\n", num, (num%2==0)?"PAR":"IMPAR");
+
+*/

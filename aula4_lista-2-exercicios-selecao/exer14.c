@@ -31,8 +31,7 @@ int main(void){
 
     if (idade_voto > 18){
         printf("\nVoce esta com %i anos. Seu voto eh OBRIGATORIO\n", idade_voto);
-    }
-    else
+    }else
     printf("\nVoce esta com %i anos. Seu voto eh OBRIGATORIO a partir dos 18 anos\n", idade_voto);
 
     return 0;

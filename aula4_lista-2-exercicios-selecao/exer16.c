@@ -31,16 +31,13 @@ int main(void){
     float altura, sexo, pesoideal;
         
     printf("\nInforme sua altura: ");
-    scanf("%f", &altura);    
-
+    scanf("%f", &altura); 
     printf("Informe seu sexo (1 para Homem - 2 para mulher): ");
     scanf("%f", &sexo);
 
-
     if (sexo == 1){
         pesoideal = (72.7 * altura)- 58;                
-    }
-    if (sexo == 2){
+    }else{
         pesoideal = ( 62.1* altura)- 44.7;         
     }
     printf("Seu peso ideal eh: %.1f Kg ", pesoideal);

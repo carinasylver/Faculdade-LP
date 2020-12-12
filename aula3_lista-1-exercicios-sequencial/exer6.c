@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/* DIAGRAMA CHAPIN, PORTUGUES ESTRUTURADO e LINGUAGEM C
 6.Escreva um algoritmo para ler uma temperatura em graus
 Fahrenheit, calcular e escrever o valor correspondente em graus
 Celsius.      c = ( f - 32) * 5/9

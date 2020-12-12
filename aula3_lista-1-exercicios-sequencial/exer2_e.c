@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* 
+/* DIAGRAMA CHAPIN, PORTUGUES ESTRUTURADO e LINGUAGEM C
 ### DIAGRAMA DE CHAPIN ###
     A <-- 10
     C <-- A + B
@@ -15,7 +15,6 @@ algoritmo
     escreva C
 fim_algoritmo
 */
-
 int main(void){
     int A, B, C ;
 

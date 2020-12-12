@@ -31,10 +31,8 @@ int main(void){
 
     if (qm < 12){
         vp = qm * 0.30;              
-    }
-    else 
+    }else 
         vp = qm * 0.25;
-
     printf("voce deve pagar R$%.2f", vp);
     
     return 0;

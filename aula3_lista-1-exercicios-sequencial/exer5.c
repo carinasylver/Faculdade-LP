@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/* DIAGRAMA CHAPIN, PORTUGUES ESTRUTURADO e LINGUAGEM C
 5.Escreva um algoritmo para ler um valor inteiro e escrever o seu
 antecessor.
 
@@ -18,7 +18,6 @@ algoritmo
     escreva antecessor
 fim_algoritmo
 */
-
 int main(void) {
     int n , antec;
 

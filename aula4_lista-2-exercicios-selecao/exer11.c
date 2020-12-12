@@ -26,8 +26,7 @@ int main(void){
 
     if (num > 10){
         printf("Voce digitou um numero que Eh maior que 10\n");
-    } 
-    else 
+    }else 
     printf("Voce digitou um numero que NAO eh maior que 10\n");    
      
     return 0;

@@ -25,9 +25,9 @@ int main(void){
     scanf("%i",&num);
 
     if (num >= 0){
-        printf(" O numero %i eh positivo", num);
-    }    
-    else printf(" O numero %i eh negativo", num);    
+        printf("O numero %i eh positivo", num);
+    }else
+        printf("O numero %i eh negativo", num);    
 
     return 0;
 }

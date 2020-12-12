@@ -20,15 +20,14 @@ fim_algoritmo
 int main(void){
     int A, B;
 
-    printf("Digite um numero: ");
+    printf("Digite o valor de A: ");
     scanf("%i", &A);
-    printf("Digite outro numero: ");
+    printf("Digite o valor de B: ");
     scanf("%i", &B);    
 
     if (A < B){
         printf("A ordem crescente eh %i e %i", A, B);
-    }
-    else
+    }else
         printf("A ordem crescente eh %i e %i", B, A);    
 
     return 0;

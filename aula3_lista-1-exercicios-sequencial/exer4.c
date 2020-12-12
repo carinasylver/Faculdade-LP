@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define PI 3.14 /*constantes são definidas em letras maiusculas*/
-/*
+/* DIAGRAMA CHAPIN, PORTUGUES ESTRUTURADO e LINGUAGEM C
 4.Escreva um algoritmo para ler o raio de um círculo, calcular e
 escrever a sua área.
 

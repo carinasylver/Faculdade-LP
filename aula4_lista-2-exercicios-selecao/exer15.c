@@ -17,18 +17,17 @@ algoritmo
 fim_algoritmo
 */
 int main(void){
-    int x, y;
+    int A, B;
 
-    printf("\nInforme o valor de x: ");
-    scanf("%i",&x);
-    printf("Informe o valor de y: ");
-    scanf("%i",&y);
+    printf("\nInforme o valor de A: ");
+    scanf("%i",&A);
+    printf("Informe o valor de B: ");
+    scanf("%i",&B);
 
-    if (x > y){
-        printf("O valor maior eh %i\n", x);
-    }
-    else  
-        printf("O valor maior eh %i\n", y);      
+    if (A > B){
+        printf("O valor maior eh %i\n", A);
+    }else  
+        printf("O valor maior eh %i\n", B);      
     
     return 0;
 }

@@ -29,10 +29,8 @@ int main(void){
 
     if (senha == 268474){
         printf("ACESSO PERMITIDO");
-    }
-    else
+    }else
         printf("ACESSO NEGADO");
-
-
+        
     return 0;
 }

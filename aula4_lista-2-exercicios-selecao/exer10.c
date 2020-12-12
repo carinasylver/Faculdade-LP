@@ -29,7 +29,6 @@ int main(void){
 
     printf("\nInforme sua 1a nota: ");
     scanf("%f",&n1);
-
     printf("Informe sua 2a nota: ");
     scanf("%f",&n2);
 
@@ -37,8 +36,7 @@ int main(void){
 
     if (m >=6) {
     printf("Sua media foi %.1f. PARABENS! Voce foi APROVADO.\n", m);
-    }     
-    else
+    }else
     printf("Sua media foi %.1f. Voce foi REPROVADO! Estude mais.", m);
 
     return 0;
