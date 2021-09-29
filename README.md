@@ -8,5 +8,5 @@
 - funções
 
 
-<h1> Programa com todos os exercícios </h1>
+<h2> Programa com todos os exercícios </h2>
 Replit : https://replit.com/@carinagsilveira/allexercisesLP#main.c
