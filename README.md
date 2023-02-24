@@ -1,4 +1,4 @@
-# Faculdade-LP
+# faculdade-LP
  Exercícios Disciplina de Lógica de Programação 
  
 - Estruturas Sequenciais
